@@ -1,0 +1,23 @@
+{
+  "name": "goit-typescript-hw-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VadymMurzin/goit-typescript-hw-01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VadymMurzin/goit-typescript-hw-01/issues"
+  },
+  "homepage": "https://github.com/VadymMurzin/goit-typescript-hw-01#readme",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "@web/dev-server": "^0.4.3"
+  }
+}
